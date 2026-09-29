@@ -8,8 +8,6 @@ I also co-founded **IBWARE**, a small software company where I worked on real pr
 
 ## About me
 
-- Computer Engineering student at the University of Málaga
-- Interested in backend development, systems and cybersecurity
 - Experience working with Linux servers, deployment and web infrastructure
 - Interested in networking and understanding how systems work internally
 - Currently developing **ThreatIntel Lite**
