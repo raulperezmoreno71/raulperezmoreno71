@@ -1,16 +1,39 @@
-## Hi there 👋
+# Raúl Pérez Moreno
 
-<!--
-**raulperezmoreno71/raulperezmoreno71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Málaga, interested in backend development, systems and cybersecurity.
 
-Here are some ideas to get you started:
+I started my university studies in the Dual Degree in Computer Engineering and Mathematics before deciding to focus fully on Computer Engineering, while maintaining a strong interest in the mathematical and technical foundations of computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also co-founded **IBWARE**, a small software company where I worked on real projects for clients, developing web applications, integrations, automations and deployment solutions.
+
+## About me
+
+- Computer Engineering student at the University of Málaga
+- Interested in backend development, systems and cybersecurity
+- Experience working with Linux servers, deployment and web infrastructure
+- Interested in networking and understanding how systems work internally
+- Currently developing **ThreatIntel Lite**
+- Currently expanding my knowledge of cybersecurity and network security
+
+## Technologies
+
+**Backend**  
+Java · Spring Boot · REST APIs · PostgreSQL · Maven
+
+**Systems & Infrastructure**  
+Linux · Nginx · Git · GitHub · VPS deployment
+
+**Web**  
+React · TypeScript · JavaScript
+
+## Featured Project
+
+### [ThreatIntel Lite](https://github.com/raulperezmoreno71/threatintel-lite)
+
+A lightweight threat intelligence platform for analyzing URLs, domains and security-related signals.
+
+The project combines backend development, networking and security concepts using Java, Spring Boot, React and PostgreSQL.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/raul-perez-moreno)
